@@ -29,3 +29,5 @@ def agregar_paciente():
 def atender_paciente():
     fin_atender  = True
     print('Se atendera a los pacientes en el orden que entraron: ')
+    atendido = pacientes.popleft() #elimina el primer elemento que se ingreso
+    print(f'Se atendio a {atendido}')
