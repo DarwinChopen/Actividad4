@@ -1,4 +1,4 @@
-print('\r\t\t===Bienvenido usuario a clinica medica ===')
+print('\r\t\t===Bienvenido usuario a Farmacia medica ===')
 
 pilaMedicamentos=[]
 def ingresoMedicamentos():
@@ -7,6 +7,7 @@ def ingresoMedicamentos():
     print(f"se agrgo {nombre} a la pila")
 
 def EntrgarMedicamentos():
+    print("Se esta entregando el Mediacamento")
     entregado = pilaMedicamentos.pop()
     print(f"Se entrego el medicamento: {entregado}")
 def mostrarMedicamentos():
