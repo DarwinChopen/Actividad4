@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d7b9c50-5a06-4feb-b2c8-302c5284d490" name="Cambios" comment="Funcion para agregar, atender y mostrar la cola de los pacientes">
-      <change beforePath="$PROJECT_DIR$/farmacia.py" beforeDir="false" afterPath="$PROJECT_DIR$/recepcion.py" afterDir="false" />
+    <list default="true" id="0d7b9c50-5a06-4feb-b2c8-302c5284d490" name="Cambios" comment="se crearon las funciones para atender paciente y para mostrar historial">
+      <change beforePath="$PROJECT_DIR$/principal.py" beforeDir="false" afterPath="$PROJECT_DIR$/principal.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +55,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.principal.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "RamaErick",
@@ -156,7 +157,39 @@
       <option name="project" value="LOCAL" />
       <updated>1752079598406</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="se refactorizo la clase">
+      <option name="closed" value="true" />
+      <created>1752079683467</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1752079683467</updated>
+    </task>
+    <task id="LOCAL-00012" summary="se refactorizo la clase">
+      <option name="closed" value="true" />
+      <created>1752079696106</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1752079696106</updated>
+    </task>
+    <task id="LOCAL-00013" summary="se crearon las funciones para atender paciente y para mostrar historial">
+      <option name="closed" value="true" />
+      <created>1752079849118</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1752079849118</updated>
+    </task>
+    <task id="LOCAL-00014" summary="se crearon las funciones para atender paciente y para mostrar historial">
+      <option name="closed" value="true" />
+      <created>1752079853813</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1752079853813</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -189,6 +222,8 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Inicio de ingreso de pacientes" />
     <MESSAGE value="Funcion para agregar, atender y mostrar la cola de los pacientes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Funcion para agregar, atender y mostrar la cola de los pacientes" />
+    <MESSAGE value="se refactorizo la clase" />
+    <MESSAGE value="se crearon las funciones para atender paciente y para mostrar historial" />
+    <option name="LAST_COMMIT_MESSAGE" value="se crearon las funciones para atender paciente y para mostrar historial" />
   </component>
 </project>

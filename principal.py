@@ -1,6 +1,6 @@
 from time import process_time_ns
-
 import recepcion
+
 from recepcion import agregar_paciente, atender_paciente, mostrar_cola
 
 fin_menu =True
