@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0d7b9c50-5a06-4feb-b2c8-302c5284d490" name="Cambios" comment="se crearon las funciones para atender paciente y para mostrar historial">
+      <change beforePath="$PROJECT_DIR$/principal.py" beforeDir="false" afterPath="$PROJECT_DIR$/principal.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="DarwinChopen &lt;jackdarwinbot@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="ramaDarwin" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "erick2990"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/DarwinChopen/Actividad4.git",
+    "accountId": "54bfa8f3-4bdf-47a7-b0eb-a0e116e7789d"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2ze24PMP7zpXxWyFkOJZz98hAIa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.principal.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "RamaErick",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-598b0484d0b5-e2d783800521-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.26927.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Tarea por defecto">
+      <changelist id="0d7b9c50-5a06-4feb-b2c8-302c5284d490" name="Cambios" comment="" />
+      <created>1752077026125</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752077026125</updated>
+    </task>
+    <task id="LOCAL-00001" summary="primer commit rama darwin">
+      <option name="closed" value="true" />
+      <created>1752077196573</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752077196573</updated>
+    </task>
+    <task id="LOCAL-00002" summary="primer commit rama darwin">
+      <option name="closed" value="true" />
+      <created>1752077280252</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752077280252</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1752077640898</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752077640898</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1752077690273</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752077690273</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1752077894578</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752077894578</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Inicio de ingreso de pacientes">
+      <option name="closed" value="true" />
+      <created>1752078888628</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752078888628</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Inicio de ingreso de pacientes">
+      <option name="closed" value="true" />
+      <created>1752078907146</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1752078907146</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Funcion para agregar, atender y mostrar la cola de los pacientes">
+      <option name="closed" value="true" />
+      <created>1752079529487</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1752079529487</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Funcion para agregar, atender y mostrar la cola de los pacientes">
+      <option name="closed" value="true" />
+      <created>1752079544096</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1752079544096</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Funcion para agregar, atender y mostrar la cola de los pacientes">
+      <option name="closed" value="true" />
+      <created>1752079598406</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1752079598406</updated>
+    </task>
+    <task id="LOCAL-00011" summary="se refactorizo la clase">
+      <option name="closed" value="true" />
+      <created>1752079683467</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1752079683467</updated>
+    </task>
+    <task id="LOCAL-00012" summary="se refactorizo la clase">
+      <option name="closed" value="true" />
+      <created>1752079696106</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1752079696106</updated>
+    </task>
+    <task id="LOCAL-00013" summary="se crearon las funciones para atender paciente y para mostrar historial">
+      <option name="closed" value="true" />
+      <created>1752079849118</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1752079849118</updated>
+    </task>
+    <task id="LOCAL-00014" summary="se crearon las funciones para atender paciente y para mostrar historial">
+      <option name="closed" value="true" />
+      <created>1752079853813</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1752079853813</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="ramaDarwin" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="primer commit rama darwin" />
+    <MESSAGE value="primer commit a rama principal" />
+    <MESSAGE value="ramas" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="Inicio de ingreso de pacientes" />
+    <MESSAGE value="Funcion para agregar, atender y mostrar la cola de los pacientes" />
+    <MESSAGE value="se refactorizo la clase" />
+    <MESSAGE value="se crearon las funciones para atender paciente y para mostrar historial" />
+    <option name="LAST_COMMIT_MESSAGE" value="se crearon las funciones para atender paciente y para mostrar historial" />
+  </component>
+</project>
