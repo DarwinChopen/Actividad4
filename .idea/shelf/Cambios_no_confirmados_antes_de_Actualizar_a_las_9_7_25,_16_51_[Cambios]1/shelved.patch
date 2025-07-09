@@ -1,0 +1,13 @@
+Index: principal.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>print('\\r\\t\\t===Bienvenido usuario a clinica medica ===')
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/principal.py b/principal.py
+--- a/principal.py	(revision cc1bab4a3cb3612fd8ec2f281bdd17a2834444f4)
++++ b/principal.py	(date 1752101508258)
+@@ -1,1 +1,0 @@
+-print('\r\t\t===Bienvenido usuario a clinica medica ===')
+\ No newline at end of file
