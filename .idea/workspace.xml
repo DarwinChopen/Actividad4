@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="88a837b1-a0f8-4510-bd85-9283ac55a108" name="Cambios" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Actividad4github.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Actividad4github.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/principal.py" beforeDir="false" afterPath="$PROJECT_DIR$/principal.py" afterDir="false" />
-    </list>
+    <list default="true" id="88a837b1-a0f8-4510-bd85-9283ac55a108" name="Cambios" comment="unificado" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +46,88 @@
       <option name="presentableId" value="Default" />
       <updated>1752082337448</updated>
     </task>
+    <task id="LOCAL-00001" summary="Se unificaron las clases trabjadas">
+      <option name="closed" value="true" />
+      <created>1752102027852</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1752102027852</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Se unificaron las clases trabjadas">
+      <option name="closed" value="true" />
+      <created>1752102185213</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1752102185213</updated>
+    </task>
+    <task id="LOCAL-00003" summary="unificar">
+      <option name="closed" value="true" />
+      <created>1752102220360</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752102220360</updated>
+    </task>
+    <task id="LOCAL-00004" summary="unificar">
+      <option name="closed" value="true" />
+      <created>1752102226398</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752102226398</updated>
+    </task>
+    <task id="LOCAL-00005" summary="unificar">
+      <option name="closed" value="true" />
+      <created>1752102229486</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752102229486</updated>
+    </task>
+    <task id="LOCAL-00006" summary="unificar">
+      <option name="closed" value="true" />
+      <created>1752102233557</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752102233558</updated>
+    </task>
+    <task id="LOCAL-00007" summary="unificar">
+      <option name="closed" value="true" />
+      <created>1752102242377</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1752102242377</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;principal.py">
+      <option name="closed" value="true" />
+      <created>1752102277719</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1752102277719</updated>
+    </task>
+    <task id="LOCAL-00009" summary="unificado">
+      <option name="closed" value="true" />
+      <created>1752102305239</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1752102305239</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Se unio todo lo trababjado y se implementaron funciones sobre la rama master de la clase Farmacia" />
+    <MESSAGE value="Se unificaron las clases trabjadas" />
+    <MESSAGE value="unificar" />
+    <MESSAGE value="enviando unificado" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'&#10;&#10;# Conflicts:&#10;#&#9;principal.py" />
+    <MESSAGE value="unificado" />
+    <option name="LAST_COMMIT_MESSAGE" value="unificado" />
   </component>
 </project>
