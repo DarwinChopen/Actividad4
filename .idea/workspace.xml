@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d7b9c50-5a06-4feb-b2c8-302c5284d490" name="Cambios" comment="Initial commit">
-      <change afterPath="$PROJECT_DIR$/farmacia.py" afterDir="false" />
+    <list default="true" id="0d7b9c50-5a06-4feb-b2c8-302c5284d490" name="Cambios" comment="Funcion para agregar, atender y mostrar la cola de los pacientes">
+      <change beforePath="$PROJECT_DIR$/farmacia.py" beforeDir="false" afterPath="$PROJECT_DIR$/recepcion.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,7 +116,47 @@
       <option name="project" value="LOCAL" />
       <updated>1752077894578</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Inicio de ingreso de pacientes">
+      <option name="closed" value="true" />
+      <created>1752078888628</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1752078888628</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Inicio de ingreso de pacientes">
+      <option name="closed" value="true" />
+      <created>1752078907146</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1752078907146</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Funcion para agregar, atender y mostrar la cola de los pacientes">
+      <option name="closed" value="true" />
+      <created>1752079529487</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1752079529487</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Funcion para agregar, atender y mostrar la cola de los pacientes">
+      <option name="closed" value="true" />
+      <created>1752079544096</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1752079544096</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Funcion para agregar, atender y mostrar la cola de los pacientes">
+      <option name="closed" value="true" />
+      <created>1752079598406</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1752079598406</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -147,6 +187,8 @@
     <MESSAGE value="primer commit a rama principal" />
     <MESSAGE value="ramas" />
     <MESSAGE value="Initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+    <MESSAGE value="Inicio de ingreso de pacientes" />
+    <MESSAGE value="Funcion para agregar, atender y mostrar la cola de los pacientes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Funcion para agregar, atender y mostrar la cola de los pacientes" />
   </component>
 </project>
